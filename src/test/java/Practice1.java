@@ -10,5 +10,7 @@ public class Practice1 {
         // pushed local commits to remote repo
 
         //work 1.1
+        //work 1.2
+        //work 1.3
     }
 }
